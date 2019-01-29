@@ -1,0 +1,8 @@
+Team 10: Trends Marketplace project
+
+Run webcam_cv3.py on terminal using:
+python webcam_cv3.py
+
+Run save_db.py to save log
+
+Requires an account for Loggly
