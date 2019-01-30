@@ -34,5 +34,6 @@ OpenCV: I installed the OpenCV3 on my MAC throught the command
    Need to mention that each part of our process is free except for the loggly account.
 
 5. automate e-mail alert setting is through Loggly.com. You can customize your own.
-   
+
+6. You can modify the pre-trained ML models to serve your own purpose.
 
