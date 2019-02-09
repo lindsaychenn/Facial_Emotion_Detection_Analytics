@@ -1,8 +1,8 @@
 # Objective:
 
-This project focuses on analyzing video data to perform facial recognition and understand human emotions in the retail space.  
-We intend to create an intelligent prototype for companies to identify their customers’ emotions in real-time and optimize staffing using automated email alerts to the store manager in case of the queue at the billing counter. 
-Another business use case of this project is conducting A/B testing for promotions based on human emotions. We used Python to record live video, Intel HAAR Cascades for facial detection and Loggly to ingest, process and build business intelligence dashboard on the video streaming data. All the camera-detected data are finally passed to MySQL database to created a repository for future use by other business.purposes
+This project focuses on analyzing video data to perform facial recognition and understand human emotions in the retail space.We intend to create an intelligent prototype for companies to identify their customers’ emotions in real-time and optimize staffing using automated email alerts to the store manager in case of the queue at the billing counter.   
+We used Python to record live video, Intel HAAR Cascades for facial detection and Loggly to ingest, process and build business intelligence dashboard on the video streaming data. All the camera-detected data are finally passed to MySQL database to created a repository for future use by other business purposes.
+The use cases are diverse, from A/B testing on promotion effect to security check in the crowd. By changing the pre-trained machine learning models, corporates can customize this process for there own needs.
 
 # File Introduction
     1. The folder named "age_gender_models" contains pre-trained ML models to identify two features - gender, age
